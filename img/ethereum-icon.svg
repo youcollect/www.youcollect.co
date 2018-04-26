@@ -1,0 +1,12 @@
+<svg viewBox="0 0 256 417">
+ <g>
+  <g id="svg_1" stroke="null">
+   <polygon fill="[colorBase]" points="128,13.799654006958008 128,22.780120849609375 128,283.3724670410156 128,286.0099182128906 250,214.5083770751953 " id="svg_2" stroke="null"/>
+   <polygon fill="[colorLight2]" points="132,13.799654006958008 9,214.5083770751953 132,286.0108642578125 132,160 " id="svg_3" stroke="null"/>
+   <polygon fill="[colorLight2]" points="132,407.9052734375 132,308.91217041015625 9,237.44656372070312 " id="svg_5" stroke="null"/>
+   <polygon fill="[colorDark1]" points="126,286 250,215 126,160 " id="svg_6" stroke="null"/>
+   <polygon fill="[colorLight1]" points="132,308.91351318359375 132,310.7284851074219 132,403.5572204589844 132,407.9065856933594 250,237.4478759765625 " id="svg_4" stroke="null"/>
+   <polygon fill="[colorLight1]" points="9,215 134,286 134,160 " id="svg_7" stroke="null"/>
+  </g>
+ </g>
+</svg>
